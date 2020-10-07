@@ -37,6 +37,8 @@ Cross -platform application built using Firebase, Flutter, Agora SDK and Razorpa
 | ------------------------------                                                   | ------------------------------                                                   | --------
 
 Video link:https://www.youtube.com/watch?v=o01vU-Oa4c0&feature=youtu.be
+steps:
+  video: https://www.youtube.com/embed/o01vU-Oa4c0
 ## 🚴‍♂️ How to Use 
 
 **Step 1:**
