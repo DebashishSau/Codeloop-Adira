@@ -37,10 +37,9 @@ Cross -platform application built using Firebase, Flutter, Agora SDK and Razorpa
 | ------------------------------                                                   | ------------------------------                                                   | --------
 
 
-Below is YouTube Link:
-Video link:https://youtu.be/o01vU-Oa4c0
-< a href="https://youtu.be/o01vU-Oa4c0"><img src="https://github.com/DebashishSau/Codeloop-Adira/blob/master/assets/Logo.png?raw=true" width="200" alt="ADIRA" title="ADIRA App"></a>
-  
+
+### Video link:https://youtu.be/o01vU-Oa4c0
+
 ## 🚴‍♂️ How to Use 
 
 **Step 1:**
