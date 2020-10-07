@@ -44,7 +44,7 @@ Video link:https://www.youtube.com/watch?v=o01vU-Oa4c0&feature=youtu.be
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/Shanu1515/Codeloop-Adira.git
+https://github.com/DebashishSau/Codeloop-Adira.git
 ```
 
 **Step 2:**
